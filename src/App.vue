@@ -78,7 +78,6 @@
       <p class="text-left py-3" style="font-size: 12px; color: #8E8096; letter-spacing: 0.25px">        
         These deconstructed, magnified images of Chef Julien’s most precious ingredients inform every aspect of Odette’s creative design, including the aerial installation – the centerpiece of the main dining hall.
       </p>      
-      <p class="text-left py-3 font-italic font-weight-thin" style="font-size: 14px; color: #8E8096;">Julien Royer</p>
     </div>      
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>        
