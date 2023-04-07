@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <div class="my-0 py-0">
+  <div class="my-0 py-0" style="background-color: white;">
     <v-row class="my-0 py-0 pl-3" id="div-header">
       <v-col class="my-0 py-0" style="line-height: 0"
         ><img src="@/assets/logo.png" width="65" height="65"
