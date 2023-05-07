@@ -14,9 +14,9 @@
           >MENU<v-icon class="px-4" size="x-small" icon="mdi-menu" /></v-container
       ></v-col>
     </v-row>
-    <v-row class="my-0 py-0">
+    <div class="my-0 py-0">
       <video style="width:100vw; object-fit: cover;" poster="@/assets/invite.jpg" preload="none" autoplay="autoplay" playsinline="" loop="loop" muted="muted"><source src="@/assets/invite.mp4"></video>
-    </v-row>
+    </div>
 
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>
@@ -43,7 +43,7 @@
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-abtinspiration-mobile-bg-1-768x422.jpg"
         />
       </v-row>    
-      <div class="my-0 py-0 px-0 mx-3" id="div-row1">
+      <div class="my-0 py-0 px-0 mx-0" id="div-row1">
         <p class="text-center py-2" style="font-size: 10px">INSPIRATION<span class="px-2"></span>•<span class="px-2"></span>CUISINE<span class="px-2"></span>•<span class="px-2"></span>ART<span class="px-2"></span>•<span class="px-2"></span>INTERIOR DESIGN</p>
       </div>    
       <div class="my-0 py-0 pt-6 px-0 mx-3">
