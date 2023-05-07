@@ -14,8 +14,11 @@
           >MENU<v-icon class="px-4" size="x-small" icon="mdi-menu" /></v-container
       ></v-col>
     </v-row>
-    <v-row class="my-0 py-0">
-      <video style="width: 100%" poster="https://adrienhobbs.github.io/vue-lazyload-video/video/Baga-Beach.jpg" preload="none" autoplay="autoplay" playsinline="" loop="loop" muted="muted"><source src="@/assets/invite.mp4"></video>
+    <v-row style="height: 90vh" class="my-0 py-0">
+      <v-img
+        cover        
+        src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-home-desktop-bg-1.jpg"
+      />
     </v-row>
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>
