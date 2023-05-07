@@ -15,7 +15,7 @@
       ></v-col>
     </v-row>
     <v-row class="my-0 py-0">
-      <video style="width: 100%" poster="@/assets/invite.jpg" preload="none" autoplay="autoplay" playsinline="" loop="loop" muted="muted"><source src="@/assets/invite.mp4"></video>
+      <video style="width:100vw; object-fit: cover;" poster="@/assets/invite.jpg" preload="none" autoplay="autoplay" playsinline="" loop="loop" muted="muted"><source src="@/assets/invite.mp4"></video>
     </v-row>
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>
