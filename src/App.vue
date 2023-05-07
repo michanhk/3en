@@ -150,7 +150,7 @@
       <div class="my-0 py-0 pt-6 px-0 mx-3">
         <span class="text-left py-3 pb-1" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px; border-bottom: 1px solid #6d6e71">GETTING HERE</span>
         <p class="py-2"></p>   
-        <div style="weight: 100%; max-width: 100%; height: 50vh" class="my-0 py-0">
+        <div style="weight: 100%; max-width: 100%; height: 30vh" class="my-0 py-0">
           <v-img cover                  
             src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/Odette-Map-1024x808.png"
           />
