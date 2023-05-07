@@ -44,7 +44,7 @@
         />
       </div>    
       <div class="my-0 py-0 px-0 mx-0" id="didiv1">
-        <p class="text-center pb-2" style="font-size: 10px">INSPIRATION<span class="px-2"></span>•<span class="px-2"></span>CUISINE<span class="px-2"></span>•<span class="px-2"></span>ART<span class="px-2"></span>•<span class="px-2"></span>INTERIOR DESIGN</p>
+        <p class="text-center py-2" style="font-size: 10px">INSPIRATION<span class="px-2"></span>•<span class="px-2"></span>CUISINE<span class="px-2"></span>•<span class="px-2"></span>ART<span class="px-2"></span>•<span class="px-2"></span>INTERIOR DESIGN</p>
       </div>    
       <div class="my-0 py-0 pt-6 px-0 mx-3">
         <span class="text-left py-3 pb-1" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px; border-bottom: 1px solid #6d6e71">INSPIRATION</span>
