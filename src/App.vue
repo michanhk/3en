@@ -23,8 +23,8 @@
 
     <div class="my-0 py-0 px-0">
       <p class="pb-1 text-center" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px;">OUR PEOPLE</p>
-      <p class="text-center pb-2" style="font-size: 10px; color: #A6AEB0">OUR PEOPLE<span class="px-2"></span>•<span class="px-2"></span>PEOPLE WE ADMIRE<span class="px-2"></span>•<span class="px-2"></span>WORK WITH US<span class="px-2"></span></p>
-      <div style="weight: 100%; max-width: 100% height: 30vh" class="my-0 py-0">
+      <p class="text-center py-2" style="font-size: 10px; color: #A6AEB0">OUR PEOPLE<span class="px-2"></span>•<span class="px-2"></span>PEOPLE WE ADMIRE<span class="px-2"></span>•<span class="px-2"></span>WORK WITH US<span class="px-2"></span></p>
+      <div style="weight: 100%; max-width: 100% height: auto" class="my-0 py-0">
         <v-img cover 
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/Odette_Adam-Wan-MOBILE-1-1024x780.jpg"
         />
@@ -38,13 +38,13 @@
     </div>
     
     <div class="my-0 py-0 px-0">
-      <div style="weight: 100%; max-width: 100%; height: 30vh" class="my-0 py-0">
+      <div style="weight: 100%; max-width: 100%; height: auto" class="my-0 py-0">
         <v-img cover        
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-abtinspiration-mobile-bg-1-768x422.jpg"
         />
       </div>    
       <div class="my-0 py-0 px-0 mx-0" id="didiv1">
-        <p class="text-center py-2" style="font-size: 10px">INSPIRATION<span class="px-2"></span>•<span class="px-2"></span>CUISINE<span class="px-2"></span>•<span class="px-2"></span>ART<span class="px-2"></span>•<span class="px-2"></span>INTERIOR DESIGN</p>
+        <p class="text-center pb-2" style="font-size: 10px">INSPIRATION<span class="px-2"></span>•<span class="px-2"></span>CUISINE<span class="px-2"></span>•<span class="px-2"></span>ART<span class="px-2"></span>•<span class="px-2"></span>INTERIOR DESIGN</p>
       </div>    
       <div class="my-0 py-0 pt-6 px-0 mx-3">
         <span class="text-left py-3 pb-1" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px; border-bottom: 1px solid #6d6e71">INSPIRATION</span>
@@ -62,7 +62,7 @@
     </div>    
 
     <div class="my-0 py-0 px-0">
-      <div style="weight: 100%; max-width: 100%; height: 30vh" class="my-0 py-0">
+      <div style="weight: 100%; max-width: 100%; height: auto" class="my-0 py-0">
         <v-img cover                
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-abtart-mobile-bg-1-768x422.jpg"
         />
@@ -88,7 +88,7 @@
     </div>    
     
     <div class="my-0 py-0 px-0">
-      <div style="weight: 100%; max-width: 100%; height: 30vh" class="my-0 py-0">
+      <div style="weight: 100%; max-width: 100%; height: auto" class="my-0 py-0">
         <v-img cover                
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-reservations-mobile-bg-1-768x422.jpg"
         />
@@ -142,7 +142,7 @@
     </div>         
 
     <div class="my-0 py-0 px-0">
-      <div style="weight: 100%; max-width: 100%; height: 30vh" class="my-0 py-0">
+      <div style="weight: 100%; max-width: 100%; height: auto" class="my-0 py-0">
         <v-img cover                
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-contactus-mobile-bg-768x422.jpg"
         />
@@ -150,7 +150,7 @@
       <div class="my-0 py-0 pt-6 px-0 mx-3">
         <span class="text-left py-3 pb-1" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px; border-bottom: 1px solid #6d6e71">GETTING HERE</span>
         <p class="py-2"></p>   
-        <div style="weight: 100%; max-width: 100%; height: 30vh" class="my-0 py-0">
+        <div style="weight: 100%; max-width: 100%; height: auto" class="my-0 py-0">
           <v-img cover                  
             src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/Odette-Map-1024x808.png"
           />
@@ -165,7 +165,7 @@
     </div>     
 
     <div class="my-0 py-0 px-0">
-      <div class="my-0 py-6" id="div-header" style="weight: 100%; max-width: 100%; height: 12vh" >
+      <div class="my-0 py-6" id="div-header" style="weight: 100%; max-width: 100%; height: auto" >
         <v-img src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/ODT%E2%80%94Mobile_Footer_2022_White-768x181.png"></v-img>
       </div>           
     </div>
