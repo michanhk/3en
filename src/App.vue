@@ -4,8 +4,8 @@
 </script>
 
 <template>
-  <div class="my-0 py-0" style="background-color: white;">
-    <v-row class="my-0 py-0" id="div-header">
+  <div class="my-0 py-0" style="background-color: white; width: 100% max-width: 100%;">
+    <v-row class="my-0 py-0 mx-0 px-0" id="div-header">
       <v-col class="my-0 py-0" style="line-height: 0"
         ><img src="@/assets/logo.png" width="65" height="65"
       /></v-col>
