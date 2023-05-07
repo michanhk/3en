@@ -5,7 +5,7 @@
 
 <template>
   <div class="my-0 py-0" style="background-color: white;">
-    <v-row class="my-0 py-0 px-3" id="div-header">
+    <v-row class="my-0 py-0" id="div-header">
       <v-col class="my-0 py-0" style="line-height: 0"
         ><img src="@/assets/logo.png" width="65" height="65"
       /></v-col>
@@ -23,8 +23,7 @@
       <p class="pb-1 text-center" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px;">OUR PEOPLE</p>
       <p class="text-center pb-2" style="font-size: 10px; color: #A6AEB0">OUR PEOPLE<span class="px-2"></span>•<span class="px-2"></span>PEOPLE WE ADMIRE<span class="px-2"></span>•<span class="px-2"></span>WORK WITH US<span class="px-2"></span></p>
       <v-row style="height: 30vh" class="my-0 py-0">
-      <v-img
-        cover        
+      <v-img cover 
         src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/Odette_Adam-Wan-MOBILE-1-1024x780.jpg"
       />
     </v-row>      
@@ -35,8 +34,7 @@
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>
     <v-row style="height: 30vh" class="my-0 py-0">
-      <v-img
-        cover        
+      <v-img cover        
         src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-abtinspiration-mobile-bg-1-768x422.jpg"
       />
     </v-row>    
@@ -56,8 +54,7 @@
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>    
     <v-row style="height: 30vh" class="my-0 py-0">
-      <v-img
-        cover        
+      <v-img cover                
         src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-abtart-mobile-bg-1-768x422.jpg"
       />
     </v-row>    
@@ -79,8 +76,7 @@
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>        
     <v-row style="height: 30vh" class="my-0 py-0">
-      <v-img
-        cover        
+      <v-img cover                
         src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-reservations-mobile-bg-1-768x422.jpg"
       />
     </v-row>      
@@ -130,8 +126,7 @@
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>         
     <v-row style="height: 30vh" class="my-0 py-0">
-      <v-img
-        cover        
+      <v-img cover                
         src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/odette-contactus-mobile-bg-768x422.jpg"
       />
     </v-row>      
@@ -139,8 +134,7 @@
       <span class="text-left py-3 pb-1" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px; border-bottom: 1px solid #6d6e71">GETTING HERE</span>
       <p class="py-2"></p>   
       <v-row style="height: 50vh" class="my-0 py-0">
-        <v-img
-          cover        
+        <v-img cover                  
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/Odette-Map-1024x808.png"
         />
       </v-row>            
@@ -150,7 +144,7 @@
     </div>       
     <v-row style="height: 5vh" class="my-0 py-0">      
     </v-row>     
-    <v-row class="my-0 py-6 px-3" id="div-header" style="height: 12vh" >
+    <v-row class="my-0 py-6" id="div-header" style="height: 12vh" >
       <v-img src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/ODT%E2%80%94Mobile_Footer_2022_White-768x181.png"></v-img>
     </v-row>           
   </div>
