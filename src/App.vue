@@ -15,7 +15,7 @@
       ></v-col>
     </v-row>
     <div class="my-0 py-0" style="width: 100% max-width: 100%;">
-      <video style="width: 100%; height: auto; min-width: 100%; max-width: 100%" poster="@/assets/invite.jpg" preload autoplay loop defaultMuted muted playsinline webkit-playsinline><source src="@/assets/invite.mp4"></video>
+      <video style="width: 100%; height: auto; min-width: 100%; max-width: 100%" poster="@/assets/invite.jpg" preload autoplay loop defaultMuted muted playsinline webkit-playsinline><source src="@/assets/invite_reduced.mp4"></video>
     </div>
 
     <div style="height: 5vh" class="my-0 py-0">      
