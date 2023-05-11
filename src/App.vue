@@ -44,6 +44,20 @@
     </div>
     
     <div class="my-0 py-0 px-0">
+      <p class="pb-1 text-center" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px;">OUR PEOPLE</p>
+      <p class="text-center py-2" style="font-size: 10px; color: #A6AEB0">OUR PEOPLE<span class="px-2"></span>•<span class="px-2"></span>PEOPLE WE ADMIRE<span class="px-2"></span>•<span class="px-2"></span>WORK WITH US<span class="px-2"></span></p>
+      <div style="weight: 100%; max-width: 100% height: auto" class="my-0 py-0">
+        <div class="my-0 py-0" style="width: 100% max-width: 100%;">
+          <video style="width: 100%; height: auto; min-width: 100%; max-width: 100%" poster="@/assets/8bit.jpg" preload autoplay loop defaultMuted muted playsinline webkit-playsinline><source src="@/assets/8bit_reduced.mp4"></video>
+        </div>
+
+      </div>            
+      <div class="mx-3">
+        <p class="pt-3 pb-1 text-left" style="font-size: 16px; color: #8E8096; letter-spacing: 1.5px;">ADAM WAN, HEAD CHEF</p>
+      </div>
+    </div>
+
+    <div class="my-0 py-0 px-0">
       <div style="weight: 100%; max-width: 100%; height: auto" class="my-0 py-0">
         <v-img cover 
           src="https://www.odetterestaurant.com/wp-content/uploads/2017/03/Odette_Adam-Wan-MOBILE-1-1024x780.jpg"
