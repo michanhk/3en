@@ -49,7 +49,7 @@
         <p class="text-center py-2" style="font-size: 10px; color: #A6AEB0">OUR PEOPLE<span class="px-2"></span>•<span class="px-2"></span>PEOPLE WE ADMIRE<span class="px-2"></span>•<span class="px-2"></span>WORK WITH US<span class="px-2"></span></p>
         <div style="weight: 100%; max-width: 100% height: auto" class="my-0 py-0">
           <div class="my-0 py-0" style="width: 100% max-width: 100%;">
-            <video style="width: 100%; height: auto; min-width: 100%; max-width: 100%" poster="@/assets/8bit.jpg" preload autoplay loop defaultMuted muted playsinline webkit-playsinline><source src="@/assets/8bit_reduced.mp4"></video>
+            <video style="width: 100%; height: auto; min-width: 100%; max-width: 100%" poster="@/assets/8bitv2.jpg" preload autoplay loop defaultMuted muted playsinline webkit-playsinline><source src="@/assets/8bitv2_reduced.mp4"></video>
           </div>
 
         </div>            
